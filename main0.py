@@ -58,7 +58,7 @@ def memory_recall(context):
 
                     # Wait for 1 minute before capturing the next image
                     time.sleep(60)
-                    model=genai.GenerativeModel("gemini-1.5-flash")
+                    model=genai.GenerativeModel("gemini-1.5-pro")
                     
                     pic = PIL.Image.open(frame)
                     if not context:
