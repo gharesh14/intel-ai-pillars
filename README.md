@@ -16,7 +16,6 @@ Table of Contents
 
 6.Contributing
 
-7.License
 
 Features
 
@@ -95,8 +94,4 @@ We welcome contributions to improve GENEYE. To contribute:
 4.Submit a pull request.
 
 
-
-License
-
-This project is licensed under the MIT License.
 
